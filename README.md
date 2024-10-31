@@ -1,4 +1,7 @@
-## Hi there 👋
+# V4rd3n
+### Student at Politecnico di Torino (Computer Engineering)
+
+
 
 <!--
 **V4rd3n/V4rd3n** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
